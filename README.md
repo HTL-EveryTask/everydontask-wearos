@@ -1,2 +1,2 @@
 # everydontask-wearos
-WearOS applikation for everydontask
+WearOS application for everydontask
