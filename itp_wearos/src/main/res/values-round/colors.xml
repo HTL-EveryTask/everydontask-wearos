@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ghost">#EEF2FF</color>
+    <color name="raisin">#221F2E</color>
+    <color name="platinum">#E1E1E0</color>
+    <color name="cerulean">#24B5DC</color>
+    <color name="yonder">#4C66A4</color>
+    <color name="rebecca">#6B3296</color>
+    <color name="red">#F44336</color>
+</resources>
